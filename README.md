@@ -33,6 +33,4 @@ Si tienes alguna pregunta o comentario sobre este proyecto, no dudes en contacta
 
 ¡Gracias por revisar este proyecto de prueba!
 
-Recuerda personalizar la información según tu proyecto y agregar cualquier otra sección relevante que consideres necesario. Espero que esto te ayude a crear una documentación clara y útil para tu proyecto.
-
 Si tienes alguna otra pregunta, no dudes en hacerla. ¡Buena suerte!
