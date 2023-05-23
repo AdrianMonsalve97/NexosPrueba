@@ -6,6 +6,7 @@ import com.prueba.amonsalve.model.Transaction;
 import com.prueba.amonsalve.service.CardService;
 import com.prueba.amonsalve.service.TransactionService;
 
+import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,6 +14,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/transaction")
+@Api(tags = "transaction API")
 public class TransactionController {
 
     @Autowired

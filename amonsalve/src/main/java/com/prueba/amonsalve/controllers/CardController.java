@@ -10,10 +10,12 @@ import com.prueba.amonsalve.dto.PurchaseRequest;
 import com.prueba.amonsalve.model.Card;
 import com.prueba.amonsalve.service.CardService;
 
+import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
 @RestController
 @RequestMapping("/card")
+@Api(tags = "Card API")
 public class CardController {
   
 
